@@ -4,8 +4,8 @@
 
 You need to have Oracle 11g Installed for it to work.
 In Oracle 11g you need to have an account with Username: Dani, Password: 123
-# string str = "Data Source=localhost:1521/XE;User Id=dani;Password=123;";
-# Form1.cs : Line-79
+// string str = "Data Source=localhost:1521/XE;User Id=dani;Password=123;";
+// Form1.cs : Line-79
 
 In that account you need to run the files as following:
 'remove_tables.txt' Run contents of this file as an SQL Command.
